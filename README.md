@@ -2,6 +2,7 @@
 This is an example of several P5*JS projects. It includes projects such as Mardi Gras, Sketch, Light on Light off, Fleeing or Chasing. I love P5*js as it is perfect for making commputer ART!!!!!!!
 
 ***Details***
+
 Some projects are interactive to a click of the mouse or movement of the mouse others just move on their own.
 
 
